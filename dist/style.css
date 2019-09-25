@@ -620,7 +620,7 @@ a:hover {
 
 .trail {
   position: absolute;
-  height: 6px; width: 6px;
+  height: 7px; width: 7px;
   border-radius: 3px;
   background: #f1e05a;
   pointer-events: none;
